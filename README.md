@@ -11,7 +11,7 @@ The dashboard provides actionable insights into Sales trends, product categories
   **Interactive Filters**: Category, and location.
 
 ## 🖼️ Dashboard Preview
-![Blinkit Sales Dashboard](Images/blinkit_dashboard.png)
+![Blinkit Sales Dashboard](Images/blinkit_dashboard.png.png)
 
 ## 📂 Repository Structure
 - `data/` → Sample datasets used for dashboard creation  
