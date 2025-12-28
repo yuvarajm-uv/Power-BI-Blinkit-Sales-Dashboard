@@ -14,7 +14,7 @@ The dashboard provides actionable insights into Sales trends, product categories
 ![Blinkit Sales Dashboard](Images/blinkit_dashboard.png.png)
 
 ## 📂 Repository Structure
-- `data/` → Sample datasets used for dashboard creation  
-- `pbix/` → Power BI project files (`Blinkit_Sales.pbix`)  
+- `Blinkit_Dataset/` → Sample datasets used for dashboard creation  
+- `pbix/` → Power BI project files (`Blinkit_Sales_Dashboard.pbix`)  
 - `images/` → Dashboard screenshots for README and documentation  
 - `README.md` → Project documentation  
